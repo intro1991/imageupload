@@ -1,0 +1,2 @@
+(this["webpackJsonpdataplatform_v2.0.0"]=this["webpackJsonpdataplatform_v2.0.0"]||[]).push([[3],{665:function(t,a,s){"use strict";s.r(a),a.default=function(){return"test"}}}]);
+//# sourceMappingURL=3.e91a54a4.chunk.js.map

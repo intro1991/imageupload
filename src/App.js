@@ -24,6 +24,8 @@ import ScrollToTop from 'src/components/ScrollToTop';
 import NotistackProvider from 'src/components/NotistackProvider';
 import AuthProvider from 'src/guards/AuthProvider';
 
+import Login from 'src/views/Login';
+
 export default function App() {
   //const { isInitialized } = useAuth();
   return (
@@ -39,6 +41,7 @@ export default function App() {
                     <AuthProvider>
                       <Settings />
                       <ScrollToTop />
+                      <Login />
                       <Router />
                     </AuthProvider>
                   </NotistackProvider>
